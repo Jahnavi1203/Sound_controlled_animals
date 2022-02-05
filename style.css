@@ -1,0 +1,30 @@
+body{
+    font-family: 'Rowdies', cursive;
+    background: whitesmoke;
+    text-align: center;
+}
+.header_div{
+    background: lightblue;
+    color: royalblue;
+}
+.copy_right_fotter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    color: rgb(253, 249, 6);
+    background: darkblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    font-family: 'Dosis', sans-serif;
+}
+button{
+    width: 300px;
+    height: 30px;
+    font-family: 'Concert One', cursive;
+    
+}
+h3{
+    color: crimson;
+}
